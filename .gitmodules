@@ -4,3 +4,15 @@
 [submodule "themes/cupper"]
 	path = themes/cupper
 	url = https://github.com/zwbetz-gh/cupper-hugo-theme.git
+[submodule "themes/basics"]
+	path = themes/basics
+	url = https://github.com/arjunkrishnababu96/basics
+[submodule "themes/slim"]
+	path = themes/slim
+	url = https://github.com/zhe/hugo-theme-slim
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke
+[submodule "themes/lithium"]
+	path = themes/lithium
+	url = https://github.com/jrutheiser/hugo-lithium-theme
