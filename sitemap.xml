@@ -3,12 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bkbkb.github.io/aegisub-tutorials/posts/temp/</loc>
+    <lastmod>2019-02-21T15:55:41-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bkbkb.github.io/aegisub-tutorials/</loc>
+    <lastmod>2019-02-21T15:55:41-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bkbkb.github.io/aegisub-tutorials/categories/</loc>
+    <loc>https://bkbkb.github.io/aegisub-tutorials/posts/</loc>
+    <lastmod>2019-02-21T15:55:41-05:00</lastmod>
     <priority>0</priority>
   </url>
   
