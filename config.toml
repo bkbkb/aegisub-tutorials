@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://bkbkb.github.io/aegisub-tutorials/"
 languageCode = "en-us"
 title = "Aegisub教程"
 theme = "cupper"
